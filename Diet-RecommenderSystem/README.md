@@ -19,6 +19,6 @@ The Diet Recommender System aims to provide personalized diet recommendations to
 ### Steps
  Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diet-recommender.git
-   cd diet-recommender
-    ```
+   git clone https://github.com/Drup2021/GeneticAlgorithms.git
+   cd Diet-RecommenderSystem
+```
